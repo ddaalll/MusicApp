@@ -1,4 +1,4 @@
-# MusicApp
+# Music Search App
 
 ## 개요
 
